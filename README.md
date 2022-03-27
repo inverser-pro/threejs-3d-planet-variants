@@ -11,3 +11,5 @@ https://codepen.io/inverser/pen/QWaLqPm
 
 Docs (lang: RU)
 https://three.inverser.pro
+
+Nice day!
