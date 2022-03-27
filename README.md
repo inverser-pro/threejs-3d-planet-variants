@@ -5,3 +5,9 @@
 
 Для запуска у Вас должен быть установлен вышеупомянутый пакет.
 Используйте команду canvas-sketch "имя файла" в папке, где будут лежать эти файлы и модули nodejs
+
+Live view
+https://codepen.io/inverser/pen/QWaLqPm
+
+Docs (lang: RU)
+https://three.inverser.pro
