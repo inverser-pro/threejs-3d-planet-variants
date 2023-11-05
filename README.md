@@ -1,6 +1,8 @@
 # threejs-3d-planet-variants
 Варианты планеты. От 0 до полноценной версии.
 
+[Watch on Youtube](https://www.youtube.com/watch?v=UNvoDucprRE&list=PL0XYm8bdyeFDGJmFeHDiEXsmLfq3vWBaj)
+
 Файлы для canvas-sketch (https://github.com/mattdesl/canvas-sketch)
 
 Для запуска у Вас должен быть установлен вышеупомянутый пакет.
